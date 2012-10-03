@@ -1,5 +1,3 @@
-x += 1
-x = 2 + z
 
 def dummy():
     pass
@@ -8,13 +6,8 @@ def dummy():
 
 
 def this_is_a_function_name_that_is_way_too_long_and_not_even_really_that_helpful_because_it_eather_scrolls_off_the_screen_or_it_wraps_or_the_font_is_too_small_to_actually_read():
-    pass
-
-def dummy(x, x=None):
-    # alskdjf
-
-
-    {}.has_key('x')
+      return    {}.has_key  (    'x'    )
+def dummy(x):
 
 
 

@@ -1,0 +1,5 @@
+nosexcover
+pep8
+pylint
+pyflakes
+pynocle

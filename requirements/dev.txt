@@ -1,3 +1,2 @@
-nose
-behave
+-r test.txt
 bpython
